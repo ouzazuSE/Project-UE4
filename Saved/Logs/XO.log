@@ -1,0 +1,1707 @@
+﻿Log file open, 09/17/20 17:49:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: XO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270709
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Engine.ini]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Engine.ini]
+[2020.09.17-10.49.47:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Engine.ini]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Engine.ini]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.17-10.49.47:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Engine.ini]
+[2020.09.17-10.49.47:354][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Engine.ini]
+[2020.09.17-10.49.47:358][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.17-10.49.47:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.17-10.49.47:359][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.17-10.49.47:359][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.17-10.49.47:359][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.17-10.49.47:378][  0]LogHAL: Display: Platform has ~ 16 GB [16983539712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.17-10.49.47:378][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.17-10.49.47:378][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.17-10.49.47:378][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Scalability.ini]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.17-10.49.47:379][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.17-10.49.47:400][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.17-10.49.47:401][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.17-10.49.47:401][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pc/Documents/Unreal Projects/XO/Saved/Config/Windows/Engine.ini]
+[2020.09.17-10.49.47:401][  0]LogInit: Computer: DESKTOP-4BH1P2N
+[2020.09.17-10.49.47:401][  0]LogInit: User: pc
+[2020.09.17-10.49.47:401][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.09.17-10.49.47:401][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.17-10.49.47:401][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.09.17-10.49.47:401][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.17-10.49.47:401][  0]LogMemory: Process Physical Memory: 106.79 MB used, 106.79 MB peak
+[2020.09.17-10.49.47:401][  0]LogMemory: Process Virtual Memory: 101.62 MB used, 101.62 MB peak
+[2020.09.17-10.49.47:401][  0]LogMemory: Physical Memory: 13972.89 MB used,  2223.88 MB free, 16196.77 MB total
+[2020.09.17-10.49.47:401][  0]LogMemory: Virtual Memory: 5161.08 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.09.17-10.49.48:117][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.17-10.49.49:374][  0]LogInit: Using OS detected language (en-US).
+[2020.09.17-10.49.49:374][  0]LogInit: Using OS detected locale (th-TH).
+[2020.09.17-10.49.49:375][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.09.17-10.49.49:995][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.17-10.49.50:203][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.17-10.49.50:203][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.17-10.49.53:452][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.17-10.49.53:452][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.17-10.49.53:452][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.17-10.49.53:452][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.17-10.49.53:564][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.09.17-10.49.53:564][  0]LogD3D11RHI:       5980/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.17-10.49.53:580][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.09.17-10.49.53:580][  0]LogD3D11RHI:       128/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.09.17-10.49.53:583][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.17-10.49.53:583][  0]LogD3D11RHI:       0/0/8098 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.17-10.49.53:583][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.17-10.49.53:671][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.17-10.49.53:671][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.17-10.49.53:671][  0]LogWindows: EnumDisplayDevices:
+[2020.09.17-10.49.53:671][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.09.17-10.49.53:671][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.09.17-10.49.53:672][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.09.17-10.49.53:672][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.09.17-10.49.53:672][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.09.17-10.49.53:672][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.09.17-10.49.53:673][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.09.17-10.49.53:673][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.09.17-10.49.53:673][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.09.17-10.49.53:673][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.09.17-10.49.53:673][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.09.17-10.49.53:673][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.09.17-10.49.53:746][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.17-10.49.53:746][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.17-10.49.53:771][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.17-10.49.55:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.17-10.49.55:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.17-10.49.55:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.17-10.49.55:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.17-10.49.55:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.17-10.49.55:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.17-10.49.56:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.17-10.49.56:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.17-10.49.56:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.17-10.49.56:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.17-10.49.56:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.17-10.49.56:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.17-10.49.56:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.17-10.49.56:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.17-10.49.56:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.17-10.49.56:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.17-10.49.56:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.17-10.49.56:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.17-10.49.56:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.17-10.49.56:247][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.17-10.49.56:614][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/pc/Documents/Unreal Projects/XO/Intermediate/Shaders/WorkingDirectory/499240/).
+[2020.09.17-10.49.56:615][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pc/AppData/Local/Temp/UnrealShaderWorkingDir/0099B2EA42181D7AF010EF9A373C3431/'.
+[2020.09.17-10.49.56:625][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.17-10.49.56:625][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.17-10.49.56:625][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.17-10.50.00:117][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.17-10.50.00:204][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/pc/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.17-10.50.00:204][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pc/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.09.17-10.50.00:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/pc/Documents/Unreal Projects/XO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.17-10.50.00:204][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.17-10.50.00:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/pc/Documents/Unreal Projects/XO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.17-10.50.00:204][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.17-10.50.00:230][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.17-10.50.00:230][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.17-10.50.00:230][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.17-10.50.00:231][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.17-10.50.00:231][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.17-10.50.00:231][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.17-10.50.00:257][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.17-10.50.00:261][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.17-10.50.00:308][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.17-10.50.01:605][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.09.17-10.50.01:939][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.17-10.50.03:021][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.17-10.50.03:021][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.17-10.50.03:021][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.17-10.50.03:021][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.17-10.50.03:021][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.17-10.50.03:065][  0]LogNetVersion: XO 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3950949221)
+[2020.09.17-10.50.27:047][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.050669 seconds
+[2020.09.17-10.50.27:055][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.09.17-10.50.27:055][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.09.17-10.50.27:055][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.17-10.50.29:407][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.17-10.50.29:421][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.17-10.50.29:786][  0]SourceControl: Source control is disabled
+[2020.09.17-10.50.29:786][  0]SourceControl: Source control is disabled
+[2020.09.17-10.50.29:818][  0]SourceControl: Source control is disabled
+[2020.09.17-10.50.29:826][  0]SourceControl: Source control is disabled
+[2020.09.17-10.50.29:835][  0]SourceControl: Source control is disabled
+[2020.09.17-10.50.30:535][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.17-10.50.30:614][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.17-10.50.30:615][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.17-10.50.30:863][  0]LogOcInput: OculusInput pre-init called
+[2020.09.17-10.50.30:906][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.17-10.50.30:906][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.17-10.50.31:122][  0]LogEngine: Initializing Engine...
+[2020.09.17-10.50.31:124][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.17-10.50.31:125][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.17-10.50.31:507][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.17-10.50.31:731][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.17-10.50.31:749][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.17-10.50.31:749][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.17-10.50.31:749][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.17-10.50.31:749][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.17-10.50.31:749][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.17-10.50.31:749][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.17-10.50.31:749][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.17-10.50.31:749][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.17-10.50.31:750][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.17-10.50.31:750][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: Name: ลำโพง/หูฟัง (Realtek(R) Audio)
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: Channel Order:
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 5: BackRight
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.09.17-10.50.31:978][  0]LogAudioMixer: Display: 7: SideRight
+[2020.09.17-10.50.32:407][  0]LogAudioMixer: Display: Using Audio Device ลำโพง/หูฟัง (Realtek(R) Audio)
+[2020.09.17-10.50.32:416][  0]LogInit: FAudioDevice initialized.
+[2020.09.17-10.50.32:416][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.17-10.50.32:477][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/pc/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.17-10.50.32:481][  0]LogInit: Texture streaming: Enabled
+[2020.09.17-10.50.33:180][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.17-10.50.33:180][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.17-10.50.33:182][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.17-10.50.33:423][  0]LogInit: Transaction tracking system initialized
+[2020.09.17-10.50.33:608][  0]BlueprintLog: New page: Editor Load
+[2020.09.17-10.50.33:965][  0]LocalizationService: Localization service is disabled
+[2020.09.17-10.50.34:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pc/Documents/Unreal Projects/XO/Content/' took 0.00s
+[2020.09.17-10.50.34:983][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.17-10.50.34:983][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.17-10.50.36:987][  0]SourceControl: Source control is disabled
+[2020.09.17-10.50.36:987][  0]Cmd: MAP LOAD FILE="C:/Users/pc/Documents/Unreal Projects/XO/Content/XOgame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.17-10.50.36:987][  0]LightingResults: New page: Lighting Build
+[2020.09.17-10.50.37:018][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.50.37:018][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.50.37:019][  0]MapCheck: New page: Map Check
+[2020.09.17-10.50.37:019][  0]LightingResults: New page: Lighting Build
+[2020.09.17-10.50.37:050][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.09.17-10.50.37:191][  0]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.50.37:193][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.17-10.50.37:224][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.09.17-10.50.37:224][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.17-10.50.37:225][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2020.09.17-10.50.37:225][  0]LogFileHelpers: Loading map 'XOgame' took 0.238
+[2020.09.17-10.50.37:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.17-10.50.37:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.17-10.50.37:478][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.17-10.50.37:485][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.17-10.50.37:509][  0]LogCollectionManager: Loaded 0 collections in 0.001405 seconds
+[2020.09.17-10.50.37:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pc/Documents/Unreal Projects/XO/Saved/Collections/' took 0.00s
+[2020.09.17-10.50.37:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pc/Documents/Unreal Projects/XO/Content/Developers/pc/Collections/' took 0.00s
+[2020.09.17-10.50.37:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pc/Documents/Unreal Projects/XO/Content/Collections/' took 0.00s
+[2020.09.17-10.50.37:544][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3015 classes and 717 folders.
+[2020.09.17-10.50.37:577][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.17-10.50.38:559][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.17-10.50.38:581][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.09.17-10.50.38:716][  0]LogSlate: Took 0.027320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.17-10.50.38:745][  0]LogSlate: Took 0.028377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.17-10.50.38:797][  0]LogSlate: Took 0.047878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.17-10.50.38:901][  0]LogRenderer: Reallocating scene render targets to support 1008x484 Format 10 NumSamples 1 (Frame:1).
+[2020.09.17-10.50.38:984][  0]LogSlate: Took 0.031497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.17-10.50.39:133][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.17-10.50.39:133][  0]LogLoad: (Engine Initialization) Total time: 64.39 seconds
+[2020.09.17-10.50.39:133][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.17-10.50.39:378][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.17-10.50.41:982][ 24]LogAssetRegistry: Asset discovery search completed in 40.3778 seconds
+[2020.09.17-10.50.41:992][ 24]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000024 seconds (updated 0 objects)
+[2020.09.17-10.50.43:244][ 89]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.17-10.50.43:264][ 89]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyGameMode.MyGameMode
+[2020.09.17-10.50.44:111][ 89]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.09.17-10.50.46:879][ 89]LogSlate: Took 0.025843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.17-10.50.47:649][ 90]LogSlate: Took 0.032387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.17-10.56.04:859][851]BlueprintLog: New page: Compile MyGameMode
+[2020.09.17-10.56.05:690][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.09.17-10.56.09:209][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.17-10.56.09:347][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.17-10.56.09:387][ 52]PIE: New page: PIE session: XOgame (18 ก.ย. 2563 00:56:09)
+[2020.09.17-10.56.09:428][ 52]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.17-10.56.09:430][ 52]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.17-10.56.09:443][ 52]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.09:446][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002862s)
+[2020.09.17-10.56.09:464][ 52]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.09:466][ 52]LogPlayLevel: PIE: World Init took: (0.019466s)
+[2020.09.17-10.56.09:466][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.023002s)
+[2020.09.17-10.56.09:507][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.17-10.56.09:554][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.17-10.56.09:554][ 52]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.17-10.56.09:554][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.17-10.56.09:575][ 52]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.17-10.56.09:575][ 52]LogAudioMixer: Display: Name: ลำโพง/หูฟัง (Realtek(R) Audio)
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: Is Default: Yes
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: Channel Count Used: 8
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: Device Channel Count: 8
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: Channel Order:
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 1: FrontRight
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 2: FrontCenter
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 3: LowFrequency
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 4: BackLeft
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 5: BackRight
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 6: SideLeft
+[2020.09.17-10.56.09:576][ 52]LogAudioMixer: Display: 7: SideRight
+[2020.09.17-10.56.09:628][ 52]LogAudioMixer: Display: Using Audio Device ลำโพง/หูฟัง (Realtek(R) Audio)
+[2020.09.17-10.56.09:632][ 52]LogInit: FAudioDevice initialized.
+[2020.09.17-10.56.09:700][ 52]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.09:876][ 52]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.09
+[2020.09.17-10.56.09:886][ 52]LogWorld: Bringing up level for play took: 0.010245
+[2020.09.17-10.56.09:887][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.09.17-10.56.10:023][ 52]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.09.17-10.56.10:133][ 52]PIE: Play in editor start time for /Game/UEDPIE_0_XOgame 1.869
+[2020.09.17-10.56.11:882][125]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.11:886][126]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.11:903][127]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.11:920][128]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.11:936][129]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.11:953][130]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.11:970][131]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.11:985][132]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:002][133]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:019][134]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:036][135]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:053][136]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:069][137]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:086][138]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:103][139]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:119][140]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:136][141]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:153][142]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:169][143]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:185][144]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:202][145]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:219][146]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:236][147]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:252][148]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:269][149]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:287][150]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:303][151]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:320][152]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:336][153]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:353][154]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:370][155]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:386][156]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.12:403][157]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.14:903][296]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.56.14:905][296]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.56.14:905][296]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.14:945][296]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.56.14:945][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.56.14:946][296]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.56.15:057][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.09.17-10.56.15:060][296]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.15:062][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001474s)
+[2020.09.17-10.56.15:063][296]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.15:064][296]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2020.09.17-10.56.15:064][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.003979s)
+[2020.09.17-10.56.15:064][296]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.15:065][296]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.15
+[2020.09.17-10.56.15:065][296]LogWorld: Bringing up level for play took: 0.000315
+[2020.09.17-10.56.15:079][296]LogLoad: Took 0.173581 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.56.15:717][333]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:733][334]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:750][335]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:767][336]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:783][337]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:800][338]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:817][339]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:834][340]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:851][341]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:867][342]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:883][343]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:900][344]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:916][345]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:933][346]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:950][347]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:967][348]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.15:983][349]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:000][350]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:017][351]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:034][352]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:050][353]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:067][354]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:084][355]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:101][356]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:117][357]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:134][358]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:151][359]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:167][360]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:184][361]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:201][362]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:218][363]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:235][364]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:250][365]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:267][366]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:283][367]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.16:301][368]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.18:952][527]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.56.18:952][527]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.56.18:952][527]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.18:953][527]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.56.18:953][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.56.18:953][527]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.56.19:114][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.09.17-10.56.19:115][527]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.19:117][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001161s)
+[2020.09.17-10.56.19:118][527]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.19:118][527]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2020.09.17-10.56.19:118][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.003409s)
+[2020.09.17-10.56.19:118][527]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.19:120][527]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.19
+[2020.09.17-10.56.19:120][527]LogWorld: Bringing up level for play took: 0.000576
+[2020.09.17-10.56.19:122][527]LogLoad: Took 0.169843 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.56.20:315][599]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:331][600]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:348][601]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:365][602]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:381][603]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:401][604]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:415][605]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:432][606]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:448][607]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:465][608]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:482][609]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:499][610]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:515][611]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:532][612]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:549][613]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:565][614]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:582][615]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:599][616]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:615][617]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:631][618]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:648][619]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:665][620]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:681][621]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:699][622]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:715][623]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:732][624]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:749][625]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:764][626]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:781][627]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:798][628]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:814][629]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:831][630]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:848][631]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:865][632]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.20:881][633]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.25:429][905]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.56.25:429][905]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.56.25:429][905]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.25:432][905]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.56.25:432][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.56.25:432][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.56.25:472][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.09.17-10.56.25:474][905]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.25:476][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001114s)
+[2020.09.17-10.56.25:478][905]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.25:478][905]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2020.09.17-10.56.25:478][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.003813s)
+[2020.09.17-10.56.25:478][905]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.25:479][905]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.25
+[2020.09.17-10.56.25:479][905]LogWorld: Bringing up level for play took: 0.000395
+[2020.09.17-10.56.25:484][905]LogLoad: Took 0.054724 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.56.26:661][971]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:678][972]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:693][973]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:710][974]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:726][975]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:743][976]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:760][977]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:776][978]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:793][979]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:810][980]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:826][981]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:842][982]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:860][983]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:876][984]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:893][985]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:909][986]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:926][987]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:943][988]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:960][989]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:976][990]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.26:993][991]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:009][992]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:026][993]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:043][994]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:059][995]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:076][996]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:093][997]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:110][998]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:127][999]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:142][  0]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:160][  1]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.27:176][  2]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.32:877][344]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.56.32:877][344]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.56.32:877][344]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.32:878][344]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.56.32:878][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.56.32:878][344]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.56.32:915][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.09.17-10.56.32:917][344]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.32:919][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001378s)
+[2020.09.17-10.56.32:920][344]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.32:920][344]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2020.09.17-10.56.32:920][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.003380s)
+[2020.09.17-10.56.32:920][344]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.32:921][344]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.32
+[2020.09.17-10.56.32:921][344]LogWorld: Bringing up level for play took: 0.000281
+[2020.09.17-10.56.32:922][344]LogLoad: Took 0.044840 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.56.34:063][413]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:080][414]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:096][415]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:113][416]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:130][417]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:146][418]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:163][419]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:180][420]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:198][421]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:213][422]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:230][423]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:246][424]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:263][425]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:280][426]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:297][427]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:313][428]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:330][429]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:347][430]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:363][431]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:380][432]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:397][433]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:413][434]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:430][435]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:447][436]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:463][437]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:480][438]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:497][439]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:514][440]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:530][441]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:547][442]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:564][443]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:580][444]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:597][445]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:614][446]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:630][447]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:646][448]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:663][449]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:680][450]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:697][451]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:713][452]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.34:730][453]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.37:431][615]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.56.37:431][615]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.56.37:431][615]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.37:432][615]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.56.37:432][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.56.37:432][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.56.37:473][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.09.17-10.56.37:474][615]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.37:475][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000923s)
+[2020.09.17-10.56.37:476][615]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.37:476][615]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2020.09.17-10.56.37:476][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.002038s)
+[2020.09.17-10.56.37:476][615]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.37:478][615]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.37
+[2020.09.17-10.56.37:478][615]LogWorld: Bringing up level for play took: 0.000447
+[2020.09.17-10.56.37:479][615]LogLoad: Took 0.048869 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.56.38:105][653]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:122][654]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:139][655]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:155][656]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:172][657]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:189][658]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:206][659]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:221][660]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:238][661]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:255][662]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:271][663]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:288][664]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:305][665]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:321][666]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:338][667]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:355][668]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:372][669]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:388][670]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:405][671]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:422][672]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:440][673]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:457][674]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:474][675]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:490][676]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:507][677]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:524][678]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:541][679]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:557][680]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:574][681]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:590][682]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:606][683]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:623][684]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:640][685]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:657][686]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:673][687]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:690][688]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.38:706][689]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.55:098][672]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.56.55:098][672]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.56.55:098][672]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.55:101][672]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.56.55:101][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.56.55:101][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.56.55:140][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.09.17-10.56.55:140][672]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.55:141][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000874s)
+[2020.09.17-10.56.55:142][672]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.55:142][672]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2020.09.17-10.56.55:142][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.001884s)
+[2020.09.17-10.56.55:142][672]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.55:143][672]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.55
+[2020.09.17-10.56.55:143][672]LogWorld: Bringing up level for play took: 0.000321
+[2020.09.17-10.56.55:145][672]LogLoad: Took 0.046971 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.56.56:002][724]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:019][725]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:036][726]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:052][727]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:069][728]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:086][729]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:103][730]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:119][731]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:136][732]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:153][733]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:170][734]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:186][735]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:202][736]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:219][737]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:235][738]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:252][739]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:269][740]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:286][741]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:302][742]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:319][743]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:336][744]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:352][745]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:369][746]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:386][747]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:403][748]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:419][749]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:436][750]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:453][751]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:469][752]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:486][753]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:503][754]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:520][755]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:536][756]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:553][757]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:569][758]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:585][759]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:602][760]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:619][761]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:636][762]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:652][763]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:669][764]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:686][765]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:702][766]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:719][767]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:736][768]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:752][769]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:769][770]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.56:786][771]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:122][911]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.56.59:122][911]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.56.59:122][911]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.59:123][911]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.56.59:123][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.56.59:123][911]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.56.59:166][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.09.17-10.56.59:167][911]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.56.59:168][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000958s)
+[2020.09.17-10.56.59:169][911]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.56.59:169][911]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2020.09.17-10.56.59:169][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.001979s)
+[2020.09.17-10.56.59:169][911]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.56.59:170][911]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.56.59
+[2020.09.17-10.56.59:170][911]LogWorld: Bringing up level for play took: 0.000315
+[2020.09.17-10.56.59:171][911]LogLoad: Took 0.049415 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.56.59:646][940]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:662][941]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:679][942]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:696][943]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:713][944]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:728][945]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:745][946]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:762][947]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:779][948]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:795][949]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:812][950]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:829][951]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:845][952]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:862][953]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:879][954]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:896][955]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:912][956]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:929][957]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:946][958]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:962][959]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:979][960]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.56.59:996][961]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:013][962]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:031][963]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:046][964]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:063][965]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:079][966]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:095][967]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:112][968]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:129][969]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:145][970]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:162][971]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.00:179][972]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.03:146][150]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.57.03:146][150]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.57.03:146][150]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.57.03:148][150]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.57.03:149][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.57.03:149][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.57.03:193][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.09.17-10.57.03:193][150]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.57.03:194][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000963s)
+[2020.09.17-10.57.03:195][150]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.57.03:196][150]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2020.09.17-10.57.03:196][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.002467s)
+[2020.09.17-10.57.03:196][150]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.57.03:197][150]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.57.03
+[2020.09.17-10.57.03:197][150]LogWorld: Bringing up level for play took: 0.000560
+[2020.09.17-10.57.03:199][150]LogLoad: Took 0.053017 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.57.04:092][204]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:109][205]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:126][206]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:142][207]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:159][208]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:176][209]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:192][210]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:208][211]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:225][212]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:242][213]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:258][214]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:275][215]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:292][216]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:309][217]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:325][218]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:342][219]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:359][220]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:375][221]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:392][222]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:409][223]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:426][224]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:442][225]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:459][226]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:476][227]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:493][228]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:509][229]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.04:526][230]PIE: Warning: The widget 'OXmanu_C' was already added to the screen.
+[2020.09.17-10.57.08:809][487]LogNet: Browse: /Game/XOgame
+[2020.09.17-10.57.08:809][487]LogLoad: LoadMap: /Game/XOgame
+[2020.09.17-10.57.08:810][487]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.57.08:812][487]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.57.08:812][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.57.08:812][487]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.57.08:852][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.09.17-10.57.08:855][487]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_XOgame
+[2020.09.17-10.57.08:856][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001145s)
+[2020.09.17-10.57.08:857][487]LogAIModule: Creating AISystem for world XOgame
+[2020.09.17-10.57.08:857][487]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2020.09.17-10.57.08:857][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/XOgame.XOgame to /Game/UEDPIE_0_XOgame.XOgame (0.002230s)
+[2020.09.17-10.57.08:857][487]LogLoad: Game class is 'MyGameMode_C'
+[2020.09.17-10.57.08:858][487]LogWorld: Bringing World /Game/UEDPIE_0_XOgame.XOgame up for play (max tick rate 60) at 2020.09.17-17.57.08
+[2020.09.17-10.57.08:859][487]LogWorld: Bringing up level for play took: 0.000468
+[2020.09.17-10.57.08:861][487]LogLoad: Took 0.052126 seconds to LoadMap(/Game/UEDPIE_0_XOgame)
+[2020.09.17-10.57.10:490][581]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:701][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:701][581]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:701][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:705][582]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:705][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:705][582]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:705][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:721][583]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:721][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:722][583]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:722][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:738][584]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:738][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:738][584]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:738][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:755][585]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:755][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:755][585]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:755][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:771][586]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:772][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:772][586]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:772][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:788][587]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:788][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:788][587]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:788][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:805][588]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:805][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:805][588]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:01E0
+[2020.09.17-10.57.10:805][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:822][589]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	MyGameMode_C /Game/UEDPIE_0_XOgame.XOgame:PersistentLevel.MyGameMode_C_0
+	Function /Game/MyGameMode.MyGameMode_C:ExecuteUbergraph_MyGameMode:0109
+[2020.09.17-10.57.10:822][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:822][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:838][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:838][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:855][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:855][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:871][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:872][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:888][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:888][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:905][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:905][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:922][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:922][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:938][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:938][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:955][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:955][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:972][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:972][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:988][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.10:988][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:005][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:005][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:021][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:021][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:038][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:038][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:054][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:054][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:071][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:071][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:088][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:088][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:104][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:105][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:121][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:121][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:138][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:138][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:155][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:155][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:171][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:171][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:188][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:188][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:205][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:205][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:221][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:222][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:238][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:238][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:255][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:255][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:272][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:272][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:288][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:288][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:305][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:305][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:322][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:322][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:338][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:339][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:354][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:354][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:371][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:371][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:388][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:388][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:404][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:404][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:421][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:421][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:438][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:438][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:455][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:455][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:471][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:472][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:488][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:488][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:505][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:505][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:521][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:521][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  MyGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  Branch
+[2020.09.17-10.57.11:558][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.17-10.57.11:604][632]LogWorld: BeginTearingDown for /Game/UEDPIE_0_XOgame
+[2020.09.17-10.57.11:614][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.57.11:614][632]LogWorld: UWorld::CleanupWorld for XOgame, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.57.11:614][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.57.11:668][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.17-10.57.11:690][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.57.11:722][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.57.11:749][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.17-10.57.11:786][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.09.17-10.57.11:925][633]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.09.17-10.57.13:449][716]LogSlate: Window 'Message Log' being destroyed
+[2020.09.17-10.57.13:452][716]LogSlate: Window 'Message Log' being destroyed
+[2020.09.17-10.58.59:614][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameMode" FILE="C:/Users/pc/Documents/Unreal Projects/XO/Content/MyGameMode.uasset" SILENT=true
+[2020.09.17-10.58.59:897][ 37]LogSavePackage: Moving 'C:/Users/pc/Documents/Unreal Projects/XO/Saved/MyGameMode0BE725E94C8B71F373BE60BB10956CF6.tmp' to 'C:/Users/pc/Documents/Unreal Projects/XO/Content/MyGameMode.uasset'
+[2020.09.17-10.58.59:954][ 37]AssetCheck: New page: Asset Save: MyGameMode
+[2020.09.17-10.58.59:954][ 37]LogContentValidation: Display: Validating Blueprint /Game/MyGameMode.MyGameMode
+[2020.09.17-10.59.07:078][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameMode" FILE="C:/Users/pc/Documents/Unreal Projects/XO/Content/MyGameMode.uasset" SILENT=true
+[2020.09.17-10.59.07:174][460]LogSavePackage: Moving 'C:/Users/pc/Documents/Unreal Projects/XO/Saved/MyGameMode47A596D8414C7C5C0B38A5893DBA1761.tmp' to 'C:/Users/pc/Documents/Unreal Projects/XO/Content/MyGameMode.uasset'
+[2020.09.17-10.59.07:190][460]AssetCheck: New page: Asset Save: MyGameMode
+[2020.09.17-10.59.07:190][460]LogContentValidation: Display: Validating Blueprint /Game/MyGameMode.MyGameMode
+[2020.09.17-10.59.10:386][628]LogSlate: Window 'MyGameMode' being destroyed
+[2020.09.17-10.59.10:389][628]LogSlate: Window 'MyGameMode' being destroyed
+[2020.09.17-10.59.10:410][628]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.59.10:410][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.17-10.59.18:154][966]LogSlate: Window 'Content Browser' being destroyed
+[2020.09.17-10.59.18:158][966]LogSlate: Window 'Content Browser' being destroyed
+[2020.09.17-10.59.25:361][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/XOgame" FILE="C:/Users/pc/Documents/Unreal Projects/XO/Content/XOgame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.17-10.59.25:522][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.09.17-10.59.25:543][193]LogSavePackage: Moving 'C:/Users/pc/Documents/Unreal Projects/XO/Saved/XOgame6660F23E46B57336E6974E9EED6B4AB2.tmp' to 'C:/Users/pc/Documents/Unreal Projects/XO/Content/XOgame.umap'
+[2020.09.17-10.59.25:574][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/XOgame_BuiltData" FILE="C:/Users/pc/Documents/Unreal Projects/XO/Content/XOgame_BuiltData.uasset" SILENT=true
+[2020.09.17-10.59.25:589][193]LogSavePackage: Moving 'C:/Users/pc/Documents/Unreal Projects/XO/Saved/XOgame_BuiltDataAE6C255D42CD34FEC61212A688BF68BF.tmp' to 'C:/Users/pc/Documents/Unreal Projects/XO/Content/XOgame_BuiltData.uasset'
+[2020.09.17-10.59.25:605][193]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.17-10.59.25:605][193]LogContentValidation: Display: Validating World /Game/XOgame.XOgame
+[2020.09.17-10.59.25:605][193]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/XOgame_BuiltData.XOgame_BuiltData
+[2020.09.17-10.59.26:609][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.09.17-10.59.26:716][247]LogSlate: Window 'XO - Unreal Editor' being destroyed
+[2020.09.17-10.59.26:721][247]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.17-10.59.26:923][248]Cmd: QUIT_EDITOR
+[2020.09.17-10.59.26:923][248]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.17-10.59.26:943][248]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.17-10.59.26:944][248]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.17-10.59.27:295][248]LogExit: Preparing to exit.
+[2020.09.17-10.59.28:263][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:263][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:263][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:263][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:263][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:263][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:263][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:263][248]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.59.28:265][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:265][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:265][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:265][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:265][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:265][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:265][248]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.17-10.59.28:265][248]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.59.28:407][248]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.17-10.59.28:489][248]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.17-10.59.28:489][248]LogExit: Editor shut down
+[2020.09.17-10.59.28:492][248]LogExit: Transaction tracking system shut down
+[2020.09.17-10.59.30:405][248]LogExit: Object subsystem successfully closed.
+[2020.09.17-10.59.30:606][248]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.17-10.59.32:060][248]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.09.17-10.59.32:060][248]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.09.17-10.59.32:072][248]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.09.17-10.59.32:072][248]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.09.17-10.59.32:072][248]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.09.17-10.59.32:072][248]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.09.17-10.59.32:091][248]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.09.17-10.59.32:091][248]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.09.17-10.59.32:091][248]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.09.17-10.59.32:097][248]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.09.17-10.59.32:107][248]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.09.17-10.59.32:122][248]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.09.17-10.59.32:123][248]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.09.17-10.59.32:151][248]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.09.17-10.59.32:151][248]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.09.17-10.59.32:151][248]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.09.17-10.59.32:151][248]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.09.17-10.59.32:151][248]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.09.17-10.59.32:151][248]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.09.17-10.59.32:151][248]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.09.17-10.59.32:178][248]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.09.17-10.59.32:186][248]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.09.17-10.59.32:186][248]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.09.17-10.59.32:186][248]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.09.17-10.59.32:197][248]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.09.17-10.59.32:198][248]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.09.17-10.59.32:212][248]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.09.17-10.59.32:255][248]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.09.17-10.59.32:255][248]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.09.17-10.59.32:280][248]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.09.17-10.59.32:290][248]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.09.17-10.59.32:290][248]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.09.17-10.59.32:290][248]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.09.17-10.59.32:290][248]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.09.17-10.59.32:290][248]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.09.17-10.59.32:291][248]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.09.17-10.59.32:303][248]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.09.17-10.59.32:323][248]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.09.17-10.59.32:340][248]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.09.17-10.59.32:340][248]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.09.17-10.59.32:340][248]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.09.17-10.59.32:350][248]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.09.17-10.59.32:368][248]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.09.17-10.59.32:379][248]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.09.17-10.59.32:411][248]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.09.17-10.59.32:429][248]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.09.17-10.59.32:429][248]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.09.17-10.59.32:441][248]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.09.17-10.59.32:467][248]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.09.17-10.59.33:448][248]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.09.17-10.59.33:448][248]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.09.17-10.59.33:448][248]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.09.17-10.59.33:448][248]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.09.17-10.59.33:448][248]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.09.17-10.59.33:448][248]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.09.17-10.59.33:448][248]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.09.17-10.59.33:468][248]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.09.17-10.59.33:489][248]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.09.17-10.59.33:495][248]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.09.17-10.59.33:510][248]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.09.17-10.59.33:510][248]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.09.17-10.59.33:510][248]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.09.17-10.59.33:524][248]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.09.17-10.59.33:534][248]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.09.17-10.59.33:534][248]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.09.17-10.59.33:534][248]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.09.17-10.59.33:534][248]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.09.17-10.59.33:534][248]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.09.17-10.59.33:541][248]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.09.17-10.59.33:560][248]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.09.17-10.59.33:570][248]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.09.17-10.59.33:570][248]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.09.17-10.59.33:580][248]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.09.17-10.59.33:614][248]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.09.17-10.59.33:618][248]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.09.17-10.59.33:628][248]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.09.17-10.59.33:649][248]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.09.17-10.59.33:649][248]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.09.17-10.59.33:664][248]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.09.17-10.59.33:664][248]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.09.17-10.59.33:693][248]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.09.17-10.59.33:721][248]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.09.17-10.59.33:722][248]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.09.17-10.59.33:731][248]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.09.17-10.59.33:743][248]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.09.17-10.59.33:743][248]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.09.17-10.59.33:744][248]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.09.17-10.59.33:744][248]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.09.17-10.59.33:744][248]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.09.17-10.59.33:744][248]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.09.17-10.59.33:748][248]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.09.17-10.59.33:759][248]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.09.17-10.59.33:767][248]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.09.17-10.59.33:767][248]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.09.17-10.59.33:767][248]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.09.17-10.59.33:788][248]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.09.17-10.59.33:788][248]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.09.17-10.59.33:788][248]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.09.17-10.59.33:804][248]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.09.17-10.59.33:821][248]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.09.17-10.59.33:826][248]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.09.17-10.59.33:992][248]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.09.17-10.59.34:016][248]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.09.17-10.59.34:016][248]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.09.17-10.59.34:017][248]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.09.17-10.59.34:017][248]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.09.17-10.59.34:026][248]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.09.17-10.59.34:026][248]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.09.17-10.59.34:026][248]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.09.17-10.59.34:033][248]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.09.17-10.59.34:044][248]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.09.17-10.59.34:063][248]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.09.17-10.59.34:080][248]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.09.17-10.59.34:080][248]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.09.17-10.59.34:080][248]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.09.17-10.59.34:091][248]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.09.17-10.59.34:097][248]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.09.17-10.59.34:098][248]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.09.17-10.59.34:098][248]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.09.17-10.59.34:108][248]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.09.17-10.59.34:115][248]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.09.17-10.59.34:115][248]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.09.17-10.59.34:137][248]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.09.17-10.59.34:147][248]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.09.17-10.59.34:150][248]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.09.17-10.59.34:158][248]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.09.17-10.59.34:158][248]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.09.17-10.59.34:158][248]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.09.17-10.59.34:171][248]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.09.17-10.59.34:171][248]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.09.17-10.59.34:171][248]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.09.17-10.59.34:180][248]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.09.17-10.59.34:186][248]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.09.17-10.59.34:196][248]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.09.17-10.59.34:204][248]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.09.17-10.59.34:204][248]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.09.17-10.59.34:221][248]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.09.17-10.59.34:222][248]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.09.17-10.59.34:222][248]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.09.17-10.59.34:222][248]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.09.17-10.59.34:222][248]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.09.17-10.59.34:222][248]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.09.17-10.59.34:222][248]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.09.17-10.59.34:252][248]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.09.17-10.59.34:252][248]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.09.17-10.59.34:252][248]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.09.17-10.59.34:252][248]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.09.17-10.59.34:252][248]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.09.17-10.59.34:252][248]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.09.17-10.59.34:354][248]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.09.17-10.59.34:462][248]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.09.17-10.59.34:475][248]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.09.17-10.59.34:489][248]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.09.17-10.59.34:489][248]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.09.17-10.59.34:489][248]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.09.17-10.59.34:489][248]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.09.17-10.59.34:489][248]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.09.17-10.59.34:489][248]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.09.17-10.59.34:492][248]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.09.17-10.59.34:492][248]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.09.17-10.59.34:505][248]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.17-10.59.34:505][248]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.09.17-10.59.34:505][248]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.09.17-10.59.34:505][248]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.09.17-10.59.34:505][248]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.09.17-10.59.34:517][248]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.09.17-10.59.34:517][248]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.09.17-10.59.34:517][248]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.09.17-10.59.34:517][248]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.09.17-10.59.34:543][248]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.09.17-10.59.34:575][248]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.09.17-10.59.34:605][248]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.09.17-10.59.34:605][248]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.09.17-10.59.34:605][248]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.09.17-10.59.34:624][248]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.09.17-10.59.34:642][248]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.09.17-10.59.34:649][248]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.09.17-10.59.34:649][248]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.09.17-10.59.34:649][248]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.09.17-10.59.34:658][248]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.09.17-10.59.34:676][248]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.09.17-10.59.34:680][248]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.09.17-10.59.34:680][248]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.09.17-10.59.34:680][248]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.09.17-10.59.34:680][248]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.09.17-10.59.34:701][248]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.09.17-10.59.34:718][248]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.09.17-10.59.34:718][248]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.09.17-10.59.34:718][248]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.09.17-10.59.34:727][248]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.09.17-10.59.34:733][248]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.09.17-10.59.34:734][248]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.09.17-10.59.34:749][248]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.09.17-10.59.34:760][248]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.09.17-10.59.34:772][248]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.09.17-10.59.34:789][248]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.09.17-10.59.34:789][248]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.09.17-10.59.34:789][248]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.09.17-10.59.34:789][248]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.09.17-10.59.34:820][248]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.09.17-10.59.34:820][248]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.09.17-10.59.34:820][248]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.09.17-10.59.34:820][248]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.09.17-10.59.34:820][248]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.09.17-10.59.34:820][248]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.09.17-10.59.34:820][248]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.09.17-10.59.34:835][248]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.09.17-10.59.34:836][248]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.09.17-10.59.34:836][248]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.09.17-10.59.34:836][248]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.09.17-10.59.34:849][248]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.09.17-10.59.34:852][248]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.09.17-10.59.34:894][248]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.09.17-10.59.34:895][248]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.09.17-10.59.34:895][248]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.09.17-10.59.34:901][248]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.09.17-10.59.34:910][248]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.09.17-10.59.34:910][248]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.09.17-10.59.34:919][248]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.09.17-10.59.34:961][248]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.09.17-10.59.34:988][248]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.09.17-10.59.35:009][248]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.09.17-10.59.35:020][248]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.09.17-10.59.35:020][248]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.09.17-10.59.35:020][248]LogDerivedDataCache: Shutdown
+[2020.09.17-10.59.35:035][248]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.09.17-10.59.35:035][248]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.09.17-10.59.35:035][248]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.09.17-10.59.35:052][248]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.09.17-10.59.35:057][248]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.09.17-10.59.35:066][248]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.09.17-10.59.35:066][248]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.09.17-10.59.35:084][248]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.09.17-10.59.35:084][248]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.09.17-10.59.35:084][248]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.09.17-10.59.35:101][248]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.09.17-10.59.35:102][248]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.09.17-10.59.35:102][248]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.09.17-10.59.35:102][248]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.09.17-10.59.35:102][248]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.09.17-10.59.35:113][248]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.09.17-10.59.35:113][248]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.09.17-10.59.35:114][248]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.09.17-10.59.35:114][248]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.09.17-10.59.35:114][248]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.09.17-10.59.35:114][248]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.09.17-10.59.35:114][248]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.09.17-10.59.35:129][248]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.09.17-10.59.35:144][248]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.09.17-10.59.35:144][248]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.09.17-10.59.35:162][248]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.09.17-10.59.35:163][248]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.09.17-10.59.35:163][248]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.09.17-10.59.35:165][248]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.09.17-10.59.35:178][248]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.09.17-10.59.35:178][248]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.09.17-10.59.35:179][248]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.09.17-10.59.35:184][248]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.09.17-10.59.35:184][248]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.09.17-10.59.35:184][248]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.09.17-10.59.35:184][248]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.09.17-10.59.35:184][248]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.09.17-10.59.35:184][248]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.09.17-10.59.35:198][248]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.09.17-10.59.35:198][248]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.09.17-10.59.35:198][248]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.09.17-10.59.35:198][248]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.09.17-10.59.35:215][248]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.09.17-10.59.35:229][248]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.09.17-10.59.35:229][248]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.09.17-10.59.35:232][248]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.17-10.59.35:232][248]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.09.17-10.59.35:244][248]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.09.17-10.59.35:245][248]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.09.17-10.59.35:245][248]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.09.17-10.59.35:245][248]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.09.17-10.59.35:260][248]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.09.17-10.59.35:273][248]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.09.17-10.59.35:352][248]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.09.17-10.59.35:352][248]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.17-10.59.35:352][248]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF1AD028-41DB-3848-30C8-5687298FB28C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=fff3fca9482ca0bcf42d8d8f569ba6c2%7Cd2c2aa39ced0472da83136d82a754c23%7Cca53db2d-7626-42c0-bc4d-c735cc2d1b90&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.09.17-10.59.35:380][248]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.09.17-10.59.35:381][248]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.09.17-10.59.35:395][248]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.09.17-10.59.35:396][248]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.09.17-10.59.35:396][248]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.09.17-10.59.35:396][248]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.09.17-10.59.35:396][248]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.09.17-10.59.35:396][248]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.09.17-10.59.35:396][248]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.09.17-10.59.35:420][248]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.09.17-10.59.35:420][248]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.17-10.59.35:420][248]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.17-10.59.35:441][248]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.17-10.59.35:449][248]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.17-10.59.35:474][248]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.17-10.59.35:482][248]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.17-10.59.35:482][248]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.17-10.59.35:482][248]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.17-10.59.35:516][248]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.17-10.59.35:534][248]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.17-10.59.35:534][248]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.17-10.59.35:551][248]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.17-10.59.35:555][248]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.17-10.59.35:555][248]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.17-10.59.35:555][248]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.17-10.59.35:573][248]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.17-10.59.35:573][248]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.17-10.59.35:584][248]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.17-10.59.35:589][248]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.17-10.59.35:589][248]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.17-10.59.35:600][248]LogD3D11RHI: Shutdown
+[2020.09.17-10.59.35:600][248]LogD3D11RHI: CleanupD3DDevice
+[2020.09.17-10.59.35:666][248]LogExit: Exiting.
+[2020.09.17-10.59.35:670][248]Log file closed, 09/17/20 17:59:35
